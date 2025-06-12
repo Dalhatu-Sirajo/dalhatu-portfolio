@@ -1,15 +1,25 @@
-
 ---
 layout: home
 title: "Sirajo Muhammad Dalhatu"
-subtitle: "Remote-Ready Software Engineer | Data Science Enthusiast | Streamlit Developer"
+subtitle: "Empowering Innovation through Data Science, AI, and Software Engineering"
 ---
 
-Welcome to my portfolio. I am a software engineer and data science enthusiast with a strong foundation in machine learning, full-stack development, and interactive data applications.
+👋 Hi! I'm **Sirajo Muhammad Dalhatu**, a data science enthusiast, researcher, and software engineer with a strong academic background in software engineering and a passion for solving real-world problems using intelligent systems.
 
-🔍 **Explore My Work**
-- [Heart Disease Analysis App](https://smd-hda.streamlit.app)
-- [GitHub Projects](https://github.com/Dalhatu-Sirajo)
-- [LinkedIn](https://www.linkedin.com/in/sirajo-dalhatu)
+🔍 My current interests include:
+- Machine Learning & Explainable AI (XAI)
+- Clinical and Health Data Analytics
+- Smart Applications using Python & Streamlit
+- Open Source and Remote Work Culture
 
-💡 I believe in creating real-world solutions through code and data. Let's connect!
+🛠️ Explore some of my featured projects:
+- 🎯 [Heart Disease Dashboard with Streamlit](https://smd-hda.streamlit.app)
+- 📊 Model Interpretability using SHAP
+- 🖥️ Custom-built Jekyll Portfolio Site (this one!)
+
+📄 Check out my [CV](/cv)  
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/sirajo-dalhatu/) or [GitHub](https://github.com/Dalhatu-Sirajo)
+
+---
+
+> “Code with purpose, analyze with precision, and innovate for impact.”
