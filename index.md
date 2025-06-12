@@ -4,7 +4,7 @@ title: "Sirajo Muhammad Dalhatu"
 subtitle: "Empowering Innovation through Data Science, AI, and Software Engineering"
 ---
 
-<img src="/assets/img/profile.jpg" alt="Sirajo Muhammad Dalhatu" style="width: 200px; border-radius: 50%; margin-bottom: 20px;">
+<img src="\assets\img\profile.jpg" alt="Sirajo Muhammad Dalhatu" style="width: 200px; border-radius: 50%; margin-bottom: 20px;">
 
 👋 Hi! I'm **Sirajo Muhammad Dalhatu**, a data science enthusiast, researcher, and software engineer with a strong academic background in software engineering and a passion for solving real-world problems using intelligent systems.
 
