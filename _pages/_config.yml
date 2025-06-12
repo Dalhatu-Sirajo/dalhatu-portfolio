@@ -1,0 +1,11 @@
+title: "Sirajo Muhammad Dalhatu"
+description: "Data Science Enthusiast | AI Researcher | Software Engineer | Remote Ready"
+author: "Sirajo Muhammad Dalhatu"
+email: "siraj9169@gmail.com"
+url: "https://dalhatu-sirajo.github.io"
+github_username: "Dalhatu-Sirajo"
+linkedin_username: "sirajo-dalhatu"
+# optionally:
+theme: minima
+plugins:
+  - jekyll-seo-tag
